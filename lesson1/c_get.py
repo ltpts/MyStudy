@@ -8,4 +8,4 @@ url = "https://www.cnblogs.com/yoyoketang/"
 r=requests.get(url,verify=False)
 print(r.text)
 # print(r.json()) # JSONDecodeError
-#test操作
+#remi操作
