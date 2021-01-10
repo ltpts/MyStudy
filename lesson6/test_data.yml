@@ -1,0 +1,28 @@
+-
+  - name: test
+    sex: M
+    age: 20
+    mail: 123456789@qq.com
+  - message: update some data!
+    code: 0
+-
+  - name: test
+    sex: F
+    age: 20,
+    mail": 123456789@qq.com
+  - message: 参数类型错误
+    code: 3333
+-
+  - name: test
+    sex: ""
+    age: 20
+    mail: 123456789@qq.com
+  - message: update some data!
+    code: 0
+-
+  - name: test
+    sex: a
+    age: 20
+    mail: 123456789@qq.com
+  - message: 参数类型错误
+    code: 3333
