@@ -1,0 +1,26 @@
+- {
+    "desc": "有效DetailID",
+    "DetailID": 4709,
+    "flag": 1
+    }
+- {
+    "desc": "DetailID空",
+    "flag": 0
+    }
+- {
+    "desc": "DetailID无效",
+    "DetailID": 6666666666666666666,
+    "flag": 0
+    }
+-
+  desc: DetailID无效
+  DetailID: 6666666666666666666
+  flag: 1
+-
+  desc: DetailID无效
+  DetailID: 6666666666666666666
+  flag: 1
+-
+  desc: DetailID无效
+  DetailID: 6666666666666666666
+  flag: 1

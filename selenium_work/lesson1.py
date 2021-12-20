@@ -36,3 +36,4 @@ if __name__ == '__main__':
     driver.get_cookies()
     driver.switch_to.window()
     driver.switch_to.alert()
+    list
